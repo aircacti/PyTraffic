@@ -1,0 +1,7 @@
+1. Aplikacja wymaga doinstalowania:
+pip install plyer psutil scapy
+
+2. Aplikacja wymaga praw administratora systemu
+
+3. Startup dla kodu to Main.py
+py .\Main.py
